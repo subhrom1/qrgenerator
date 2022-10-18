@@ -7,5 +7,7 @@ for masking.
 ### Reference Documentation
 To run this application, type the following command from its base directory:
 ./mvnw spring-boot:run
+The QR Generator application will start running on localhost:8080.
+The application is tested to be compatible with JDK 8 using Maven 3.8.2.
 
 
